@@ -15,7 +15,7 @@ Ref: https://multipass.run/
 
 Multipass Custom VM build
 
-1. ./vm_launcher
+1. ./launch_vm.sh
 
 ### Tested on Ubuntu 18.04.4 LTS
 SkFJX01BSEFLQUwh

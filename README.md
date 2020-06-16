@@ -12,3 +12,4 @@ Ref: https://multipass.run/
 4. ./setup.sh
 
 ### Tested on Ubuntu 18.04.4 LTS
+SkFJX01BSEFLQUwh

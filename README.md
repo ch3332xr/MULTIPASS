@@ -1,12 +1,14 @@
-GET STARTED WITH MULTIPASS
+# Get started with Multipass 
 
-https://multipass.run/
+Simple script to get Multipass Ubuntu-VMs running in a jiffy
 
-Scripts that get u up and running quickly
+## Install
 
-##Install MULTIPASS
+Ref: https://multipass.run/
 
-https://snapcraft.io/multipass
+1. git clone https://github.com/ch3332/MULTIPASS
+2. cd MULTIPASS
+3. chmod  +x  *.sh
+4. ./setup.sh
 
-./setup.sh
-
+### Tested on Ubuntu 18.04.4 LTS

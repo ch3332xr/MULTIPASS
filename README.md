@@ -1,4 +1,4 @@
-\\GET STARTED WITH MULTIPASS\\
+GET STARTED WITH MULTIPASS
 
 https://multipass.run/
 

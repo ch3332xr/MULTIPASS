@@ -17,5 +17,5 @@ Multipass Custom VM build
 
 1. ./launch_vm.sh
 
-### Tested on Ubuntu 18.04.4 LTS
+##### Tested on Linux 4.15.0-106-generic #107-Ubuntu SMP 
 SkFJX01BSEFLQUwh

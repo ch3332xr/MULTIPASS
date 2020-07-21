@@ -12,3 +12,5 @@ sudo snap install multipass
 sudo systemctl restart snapd
 multipass
 echo -e "[+]Done! Now go bulding Ubuntu-VMs"
+echo  [-------------SkFJX01BSEFLQUwh------------]
+echo  follow me on https://github.com/ch3332

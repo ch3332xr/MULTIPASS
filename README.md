@@ -6,7 +6,7 @@ Simple script to get Multipass Ubuntu-VMs running in a jiffy
 
 Ref: https://multipass.run/
 
-1. git clone https://github.com/ch3332/MULTIPASS
+1. git clone https://github.com/ch3332xr/MULTIPASS
 2. cd MULTIPASS
 3. chmod  +x  *.sh
 4. ./setup.sh
